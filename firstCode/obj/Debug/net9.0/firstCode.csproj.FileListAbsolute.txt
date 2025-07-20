@@ -1,0 +1,14 @@
+C:\Users\saira\Desktop\C#\firstCode\bin\Debug\net9.0\firstCode.exe
+C:\Users\saira\Desktop\C#\firstCode\bin\Debug\net9.0\firstCode.deps.json
+C:\Users\saira\Desktop\C#\firstCode\bin\Debug\net9.0\firstCode.runtimeconfig.json
+C:\Users\saira\Desktop\C#\firstCode\bin\Debug\net9.0\firstCode.dll
+C:\Users\saira\Desktop\C#\firstCode\bin\Debug\net9.0\firstCode.pdb
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.AssemblyInfoInputs.cache
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.AssemblyInfo.cs
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.csproj.CoreCompileInputs.cache
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.dll
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\refint\firstCode.dll
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.pdb
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\firstCode.genruntimeconfig.cache
+C:\Users\saira\Desktop\C#\firstCode\obj\Debug\net9.0\ref\firstCode.dll
